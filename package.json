@@ -1,0 +1,25 @@
+{
+  "name": "youtube-downloader",
+  "version": "1.0.0",
+  "description": "A youtube downloader made with Express and ytdl-core.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/nievadev/youtube-downloader.git"
+  },
+  "keywords": [
+    "express",
+    "nodejs",
+    "ytdl-core"
+  ],
+  "author": "Martin Nieva",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hjs": "0.0.6",
+    "ytdl-core": "^1.0.7"
+  }
+}
